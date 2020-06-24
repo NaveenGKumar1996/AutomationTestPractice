@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Test Practice Suite">
+	<test name="Automation Practice">
+		<classes>
+			<class
+				name="com.insticator.automationtask.testcases.UserCreationTestCase" />
+			<class
+				name="com.insticator.automationtask.testcases.OrderAProductTestCase" />
+			<class
+				name="com.insticator.automationtask.testcases.SearchProductTestCase" />
+		</classes>
+	</test>
+</suite> 

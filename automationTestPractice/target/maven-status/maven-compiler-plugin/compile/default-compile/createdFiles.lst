@@ -1,0 +1,15 @@
+com\insticator\automationtask\pages\SignInPage.class
+com\insticator\automationtask\testbase\BaseTest.class
+com\insticator\automationtask\util\ReportUtils.class
+com\insticator\automationtask\util\TestUtil.class
+com\insticator\automationtask\util\FrameWorkUtils.class
+com\insticator\automationtask\pages\AccountCreationPage.class
+com\insticator\automationtask\pages\ShoppingCartAndOrderPage.class
+com\insticator\automationtask\pages\WomensPage.class
+com\insticator\automationtask\pages\SearchPage.class
+com\insticator\automationtask\util\Constants.class
+com\insticator\automationtask\pagebase\BasePage$1.class
+com\insticator\automationtask\pages\HomePage.class
+com\insticator\automationtask\pagebase\BasePage.class
+com\insticator\automationtask\repos\Locators.class
+com\insticator\automationtask\util\PropUtils.class
