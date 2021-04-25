@@ -1,5 +1,5 @@
 # AutomationTestPractice
-Here I had automated website using Selenium WebDriver with JAVA
+Here I had automated a website using Selenium WebDriver with JAVA, followed Hybrid framework, POM design pattern with pagefactory class.
 
 
 maven command to run the project
